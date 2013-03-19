@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mur/code/LABS/suffix_automaton/main.cpp
+suffix_automaton.h
+/home/mur/code/LABS/suffix_automaton/suffix_automaton.h
+iostream
+-
+vector
+-
+fstream
+-
+
+/home/mur/code/LABS/suffix_automaton/suffix_automaton.cpp
+suffix_automaton.h
+/home/mur/code/LABS/suffix_automaton/suffix_automaton.h
+cstring
+-
+iostream
+-
+
+/home/mur/code/LABS/suffix_automaton/suffix_automaton.h
+vector
+-
+string
+-
+fstream
+-
+
