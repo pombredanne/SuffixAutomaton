@@ -1,1 +1,0 @@
-/home/mur/code/LABS/suffix_automaton/CMake_build/CMakeFiles/suffix_automaton.dir
